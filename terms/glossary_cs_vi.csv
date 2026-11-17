@@ -1,0 +1,482 @@
+source,cach_xu_ly,lan_dau,lan_sau,linh_vuc,tu_dong
+accuracy,Anh (Việt),accuracy (độ chính xác),accuracy,Học máy,có
+active learning,dịch,học chủ động,học chủ động,Học máy,có
+artificial intelligence,dịch,trí tuệ nhân tạo,trí tuệ nhân tạo,Học máy,có
+baseline,Anh (Việt),baseline (mô hình cơ sở),baseline,Học máy,không
+benchmark,giữ tiếng Anh,benchmark,benchmark,Học máy,có
+bias-variance tradeoff,dịch,đánh đổi độ chệch - phương sai,đánh đổi độ chệch - phương sai,Học máy,có
+binary classification,dịch,phân loại nhị phân,phân loại nhị phân,Học máy,có
+classification,dịch,phân loại,phân loại,Học máy,không
+classifier,dịch,bộ phân loại,bộ phân loại,Học máy,không
+clustering,dịch,phân cụm,phân cụm,Học máy,không
+confusion matrix,Anh (Việt),confusion matrix (ma trận nhầm lẫn),confusion matrix,Học máy,có
+cost function,dịch,hàm chi phí,hàm chi phí,Học máy,có
+covariate shift,dịch,dịch chuyển hiệp biến,dịch chuyển hiệp biến,Học máy,có
+cross-validation,Anh (Việt),cross-validation (kiểm định chéo),cross-validation,Học máy,có
+data augmentation,Anh (Việt),data augmentation (tăng cường dữ liệu),data augmentation,Học máy,có
+data point,dịch,điểm dữ liệu,điểm dữ liệu,Học máy,có
+dataset,Việt (Anh),tập dữ liệu (dataset),tập dữ liệu,Học máy,có
+decision tree,dịch,cây quyết định,cây quyết định,Học máy,có
+deep learning,dịch,học sâu,học sâu,Học máy,có
+dimensionality reduction,dịch,giảm chiều,giảm chiều,Học máy,có
+distribution shift,dịch,dịch chuyển phân phối,dịch chuyển phân phối,Học máy,có
+ensemble,dịch,tập hợp mô hình,tập hợp mô hình,Học máy,không
+example,dịch,mẫu,mẫu,Học máy,không
+F1 score,Anh (Việt),F1 score (điểm F1),F1 score,Học máy,có
+feature,dịch,đặc trưng,đặc trưng,Học máy,có
+feature engineering,dịch,kỹ thuật đặc trưng,kỹ thuật đặc trưng,Học máy,có
+feature extraction,dịch,trích xuất đặc trưng,trích xuất đặc trưng,Học máy,có
+generalization,dịch,khái quát hóa,khái quát hóa,Học máy,có
+generalization error,dịch,lỗi khái quát hóa,lỗi khái quát hóa,Học máy,có
+ground truth,Anh (Việt),ground truth (nhãn thật),ground truth,Học máy,có
+ground-truth label,Anh (Việt),ground-truth label (nhãn thật),ground-truth label,Học máy,có
+hyperparameter,Việt (Anh),siêu tham số (hyperparameter),siêu tham số,Học máy,có
+hyperparameter tuning,Anh (Việt),hyperparameter tuning (điều chỉnh siêu tham số),hyperparameter tuning,Học máy,có
+inference,Anh (Việt),inference (suy luận),inference,Học máy,có
+k-fold cross-validation,Anh (Việt),k-fold cross-validation (kiểm định chéo k-fold),k-fold cross-validation,Học máy,có
+k-nearest neighbors,dịch,k láng giềng gần nhất (k-NN),k láng giềng gần nhất (k-NN),Học máy,có
+label,dịch,nhãn,nhãn,Học máy,không
+linear regression,dịch,hồi quy tuyến tính,hồi quy tuyến tính,Học máy,có
+logistic regression,dịch,hồi quy logistic,hồi quy logistic,Học máy,có
+loss,Anh (Việt),loss (mất mát),loss,Học máy,không
+loss function,Việt (Anh),hàm mất mát (loss function),hàm mất mát,Học máy,có
+machine learning,dịch,học máy,học máy,Học máy,có
+model,dịch,mô hình,mô hình,Học máy,không
+model parameters,dịch,tham số mô hình,tham số mô hình,Học máy,có
+multiclass classification,dịch,phân loại đa lớp,phân loại đa lớp,Học máy,có
+naive Bayes,dịch,Bayes ngây thơ,Bayes ngây thơ,Học máy,có
+normalization,dịch,chuẩn hóa,chuẩn hóa,Học máy,không
+objective function,dịch,hàm mục tiêu,hàm mục tiêu,Học máy,có
+one-hot encoding,Anh (Việt),one-hot encoding (mã hóa one-hot),one-hot encoding,Học máy,có
+online learning,dịch,học trực tuyến,học trực tuyến,Học máy,có
+overfit,Anh (Việt),overfit (quá khớp),overfit,Học máy,có
+overfitting,Anh (Việt),overfitting (quá khớp),overfitting,Học máy,có
+parameter,dịch,tham số,tham số,Học máy,không
+pipeline,giữ tiếng Anh,pipeline,pipeline,Học máy,có
+precision,Anh (Việt),precision (độ chuẩn xác),precision,Học máy,không
+prediction,dịch,dự đoán,dự đoán,Học máy,không
+preprocessing,dịch,tiền xử lý,tiền xử lý,Học máy,không
+principal component analysis,dịch,phân tích thành phần chính (PCA),phân tích thành phần chính (PCA),Học máy,có
+random forest,dịch,rừng ngẫu nhiên,rừng ngẫu nhiên,Học máy,có
+recall,Anh (Việt),recall (độ phủ),recall,Học máy,không
+regression,dịch,hồi quy,hồi quy,Học máy,không
+regularization,Anh (Việt),regularization (điều chuẩn),regularization,Học máy,có
+reinforcement learning,dịch,học tăng cường,học tăng cường,Học máy,có
+representation learning,dịch,học biểu diễn,học biểu diễn,Học máy,có
+sample,dịch,mẫu,mẫu,Học máy,không
+self-supervised learning,dịch,học tự giám sát,học tự giám sát,Học máy,có
+semi-supervised learning,dịch,học bán giám sát,học bán giám sát,Học máy,có
+softmax regression,dịch,hồi quy softmax,hồi quy softmax,Học máy,có
+standardization,dịch,chuẩn tắc hóa,chuẩn tắc hóa,Học máy,không
+supervised learning,dịch,học có giám sát,học có giám sát,Học máy,có
+support vector machine,dịch,máy vectơ hỗ trợ (SVM),máy vectơ hỗ trợ (SVM),Học máy,có
+target,dịch,mục tiêu,mục tiêu,Học máy,không
+test set,dịch,tập kiểm tra,tập kiểm tra,Học máy,có
+training data,dịch,dữ liệu huấn luyện,dữ liệu huấn luyện,Học máy,có
+training error,dịch,lỗi huấn luyện,lỗi huấn luyện,Học máy,có
+training set,dịch,tập huấn luyện,tập huấn luyện,Học máy,có
+transfer learning,Việt (Anh),học chuyển giao (transfer learning),học chuyển giao,Học máy,có
+underfitting,Anh (Việt),underfitting (dưới khớp),underfitting,Học máy,có
+unsupervised learning,dịch,học không giám sát,học không giám sát,Học máy,có
+validation set,dịch,tập kiểm định,tập kiểm định,Học máy,có
+weight decay,Anh (Việt),weight decay (suy giảm trọng số),weight decay,Học máy,có
+activation,dịch,giá trị kích hoạt,giá trị kích hoạt,Học sâu,không
+activation function,Việt (Anh),hàm kích hoạt (activation function),hàm kích hoạt,Học sâu,có
+artificial neural network,dịch,mạng nơ-ron nhân tạo,mạng nơ-ron nhân tạo,Học sâu,có
+autoencoder,dịch,bộ tự mã hóa,bộ tự mã hóa,Học sâu,không
+autograd,giữ tiếng Anh,autograd,autograd,Học sâu,có
+automatic differentiation,dịch,tính vi phân tự động,tính vi phân tự động,Học sâu,có
+backpropagation,Việt (Anh),lan truyền ngược (backpropagation),lan truyền ngược,Học sâu,có
+backpropagation through time,dịch,lan truyền ngược qua thời gian,lan truyền ngược qua thời gian,Học sâu,có
+backward pass,dịch,lượt truyền ngược,lượt truyền ngược,Học sâu,có
+batch normalization,Anh (Việt),batch normalization (chuẩn hóa theo batch),batch normalization,Học sâu,có
+bias,dịch,hệ số điều chỉnh,hệ số điều chỉnh,Học sâu,không
+chain rule,dịch,quy tắc dây chuyền,quy tắc dây chuyền,Học sâu,có
+checkpoint,giữ tiếng Anh,checkpoint,checkpoint,Học sâu,có
+computational graph,dịch,đồ thị tính toán,đồ thị tính toán,Học sâu,có
+deep learning framework,dịch,framework học sâu,framework học sâu,Học sâu,có
+deep network,dịch,mạng sâu,mạng sâu,Học sâu,có
+dense layer,dịch,lớp dày đặc,lớp dày đặc,Học sâu,có
+diffusion model,dịch,mô hình khuếch tán,mô hình khuếch tán,Học sâu,có
+dropout,giữ tiếng Anh,dropout,dropout,Học sâu,có
+exploding gradient,dịch,bùng nổ gradient,bùng nổ gradient,Học sâu,có
+fine-tuning,Việt (Anh),tinh chỉnh (fine-tuning),tinh chỉnh,Học sâu,có
+forward pass,dịch,lượt truyền xuôi,lượt truyền xuôi,Học sâu,có
+forward propagation,dịch,lan truyền xuôi,lan truyền xuôi,Học sâu,có
+framework,giữ tiếng Anh,framework,framework,Học sâu,có
+fully connected layer,dịch,lớp kết nối đầy đủ,lớp kết nối đầy đủ,Học sâu,có
+GAN,giữ tiếng Anh,GAN,GAN,Học sâu,có
+generative adversarial network,Việt (Anh),mạng đối sinh (GAN),GAN,Học sâu,có
+GPU,giữ tiếng Anh,GPU,GPU,Học sâu,có
+gradient clipping,dịch,cắt gradient,cắt gradient,Học sâu,có
+hidden layer,dịch,lớp ẩn,lớp ẩn,Học sâu,có
+hidden unit,dịch,đơn vị ẩn,đơn vị ẩn,Học sâu,có
+initialization,dịch,khởi tạo,khởi tạo,Học sâu,không
+input layer,dịch,lớp đầu vào,lớp đầu vào,Học sâu,có
+layer,dịch,lớp,lớp,Học sâu,không
+layer normalization,Anh (Việt),layer normalization (chuẩn hóa theo lớp),layer normalization,Học sâu,có
+logit,giữ tiếng Anh,logit,logit,Học sâu,có
+MLP,giữ tiếng Anh,MLP,MLP,Học sâu,có
+multilayer perceptron,Việt (Anh),perceptron đa tầng (MLP),MLP,Học sâu,có
+neural network,dịch,mạng nơ-ron,mạng nơ-ron,Học sâu,có
+neuron,dịch,nơ-ron,nơ-ron,Học sâu,không
+output layer,dịch,lớp đầu ra,lớp đầu ra,Học sâu,có
+perceptron,giữ tiếng Anh,perceptron,perceptron,Học sâu,có
+pretrained model,Anh (Việt),pretrained model (mô hình tiền huấn luyện),pretrained model,Học sâu,có
+pretraining,Anh (Việt),pretraining (tiền huấn luyện),pretraining,Học sâu,có
+ReLU,giữ tiếng Anh,ReLU,ReLU,Học sâu,có
+residual connection,Anh (Việt),residual connection (kết nối phần dư),residual connection,Học sâu,có
+sigmoid,giữ tiếng Anh,sigmoid,sigmoid,Học sâu,có
+sigmoid function,dịch,hàm sigmoid,hàm sigmoid,Học sâu,có
+skip connection,Anh (Việt),skip connection (kết nối tắt),skip connection,Học sâu,có
+softmax,giữ tiếng Anh,softmax,softmax,Học sâu,có
+tanh,giữ tiếng Anh,tanh,tanh,Học sâu,có
+tensor,giữ tiếng Anh,tensor,tensor,Học sâu,có
+vanishing gradient,dịch,tiêu biến gradient,tiêu biến gradient,Học sâu,có
+weight,dịch,trọng số,trọng số,Học sâu,không
+weight initialization,dịch,khởi tạo trọng số,khởi tạo trọng số,Học sâu,có
+Xavier initialization,dịch,khởi tạo Xavier,khởi tạo Xavier,Học sâu,có
+Adam,giữ tiếng Anh,Adam,Adam,Tối ưu,có
+batch,giữ tiếng Anh,batch,batch,Tối ưu,có
+batch size,Việt (Anh),kích thước batch (batch size),kích thước batch,Tối ưu,có
+convergence,dịch,hội tụ,hội tụ,Tối ưu,không
+convex function,dịch,hàm lồi,hàm lồi,Tối ưu,có
+convex optimization,dịch,tối ưu lồi,tối ưu lồi,Tối ưu,có
+early stopping,Anh (Việt),early stopping (dừng sớm),early stopping,Tối ưu,có
+epoch,giữ tiếng Anh,epoch,epoch,Tối ưu,có
+global minimum,dịch,cực tiểu toàn cục,cực tiểu toàn cục,Tối ưu,có
+gradient,giữ tiếng Anh,gradient,gradient,Tối ưu,có
+gradient descent,Anh (Việt),gradient descent (hạ gradient),gradient descent,Tối ưu,có
+iteration,dịch,vòng lặp,vòng lặp,Tối ưu,không
+learning rate,Anh (Việt),learning rate (tốc độ học),learning rate,Tối ưu,có
+learning rate decay,dịch,suy giảm tốc độ học,suy giảm tốc độ học,Tối ưu,có
+learning rate schedule,dịch,lịch tốc độ học,lịch tốc độ học,Tối ưu,có
+local minimum,dịch,cực tiểu cục bộ,cực tiểu cục bộ,Tối ưu,có
+minibatch,giữ tiếng Anh,minibatch,minibatch,Tối ưu,có
+minibatch stochastic gradient descent,dịch,hạ gradient ngẫu nhiên theo minibatch,hạ gradient ngẫu nhiên theo minibatch,Tối ưu,có
+momentum,Anh (Việt),momentum (động lượng),momentum,Tối ưu,có
+optimization,dịch,tối ưu hóa,tối ưu hóa,Tối ưu,không
+optimization algorithm,dịch,thuật toán tối ưu,thuật toán tối ưu,Tối ưu,có
+optimizer,Anh (Việt),optimizer (bộ tối ưu),optimizer,Tối ưu,có
+saddle point,dịch,điểm yên ngựa,điểm yên ngựa,Tối ưu,có
+SGD,giữ tiếng Anh,SGD,SGD,Tối ưu,có
+stochastic gradient descent,Anh (Việt),stochastic gradient descent (hạ gradient ngẫu nhiên),stochastic gradient descent,Tối ưu,có
+attention,Anh (Việt),attention (chú ý),attention,NLP,không
+attention mechanism,Anh (Việt),cơ chế attention (cơ chế chú ý),cơ chế attention,NLP,có
+attention weight,Anh (Việt),trọng số attention,trọng số attention,NLP,có
+beam search,Anh (Việt),beam search (tìm kiếm chùm),beam search,NLP,có
+bidirectional,dịch,hai chiều,hai chiều,NLP,có
+corpus,dịch,kho ngữ liệu,kho ngữ liệu,NLP,không
+decoder,Anh (Việt),decoder (bộ giải mã),decoder,NLP,có
+deep recurrent neural network,dịch,mạng nơ-ron hồi tiếp sâu,mạng nơ-ron hồi tiếp sâu,NLP,có
+embedding,giữ tiếng Anh,embedding,embedding,NLP,có
+encoder,Anh (Việt),encoder (bộ mã hóa),encoder,NLP,có
+encoder-decoder,Anh (Việt),encoder-decoder (bộ mã hóa - giải mã),encoder-decoder,NLP,có
+forget gate,dịch,cổng quên,cổng quên,NLP,có
+gate,dịch,cổng,cổng,NLP,không
+gated recurrent unit,Việt (Anh),nút hồi tiếp có cổng (GRU),GRU,NLP,có
+greedy search,dịch,tìm kiếm tham lam,tìm kiếm tham lam,NLP,có
+GRU,giữ tiếng Anh,GRU,GRU,NLP,có
+hidden state,Việt (Anh),trạng thái ẩn (hidden state),trạng thái ẩn,NLP,có
+input gate,dịch,cổng đầu vào,cổng đầu vào,NLP,có
+internal state,dịch,trạng thái nội tại,trạng thái nội tại,NLP,có
+key,dịch,khóa,khóa,NLP,không
+language model,Việt (Anh),mô hình ngôn ngữ (language model),mô hình ngôn ngữ,NLP,có
+large language model,Việt (Anh),mô hình ngôn ngữ lớn (LLM),LLM,NLP,có
+LLM,giữ tiếng Anh,LLM,LLM,NLP,có
+long short-term memory,Việt (Anh),bộ nhớ ngắn hạn dài (LSTM),LSTM,NLP,có
+LSTM,giữ tiếng Anh,LSTM,LSTM,NLP,có
+machine translation,dịch,dịch máy,dịch máy,NLP,có
+memory cell,dịch,ô nhớ,ô nhớ,NLP,có
+multi-head attention,Anh (Việt),multi-head attention (chú ý đa đầu),multi-head attention,NLP,có
+natural language processing,dịch,xử lý ngôn ngữ tự nhiên,xử lý ngôn ngữ tự nhiên,NLP,có
+output gate,dịch,cổng đầu ra,cổng đầu ra,NLP,có
+perplexity,giữ tiếng Anh,perplexity,perplexity,NLP,có
+positional encoding,Anh (Việt),positional encoding (mã hóa vị trí),positional encoding,NLP,có
+prompt,giữ tiếng Anh,prompt,prompt,NLP,có
+query,dịch,truy vấn,truy vấn,NLP,không
+recurrent,dịch,hồi tiếp,hồi tiếp,NLP,có
+recurrent computation,dịch,phép tính hồi tiếp,phép tính hồi tiếp,NLP,có
+recurrent layer,dịch,lớp hồi tiếp,lớp hồi tiếp,NLP,có
+recurrent neural network,Việt (Anh),mạng nơ-ron hồi tiếp (RNN),RNN,NLP,có
+reset gate,dịch,cổng đặt lại,cổng đặt lại,NLP,có
+RNN,giữ tiếng Anh,RNN,RNN,NLP,có
+self-attention,Anh (Việt),self-attention (tự chú ý),self-attention,NLP,có
+sequence,dịch,chuỗi,chuỗi,NLP,không
+sequence model,dịch,mô hình chuỗi,mô hình chuỗi,NLP,có
+sequence-to-sequence,Việt (Anh),chuỗi sang chuỗi (seq2seq),seq2seq,NLP,có
+teacher forcing,giữ tiếng Anh,teacher forcing,teacher forcing,NLP,có
+time series,dịch,chuỗi thời gian,chuỗi thời gian,NLP,có
+time step,dịch,bước thời gian,bước thời gian,NLP,có
+token,giữ tiếng Anh,token,token,NLP,có
+tokenization,Anh (Việt),tokenization (tách token),tokenization,NLP,có
+tokenizer,Anh (Việt),tokenizer (bộ tách token),tokenizer,NLP,có
+transformer,giữ tiếng Anh,Transformer,Transformer,NLP,có
+update gate,dịch,cổng cập nhật,cổng cập nhật,NLP,có
+value,dịch,giá trị,giá trị,NLP,không
+vocabulary,dịch,bộ từ vựng,bộ từ vựng,NLP,không
+word embedding,Anh (Việt),word embedding (embedding từ),word embedding,NLP,có
+anchor box,Anh (Việt),anchor box (hộp neo),anchor box,Thị giác,có
+average pooling,Anh (Việt),average pooling (gộp trung bình),average pooling,Thị giác,có
+backbone,Anh (Việt),backbone (mạng xương sống),backbone,Thị giác,có
+bounding box,Anh (Việt),bounding box (hộp giới hạn),bounding box,Thị giác,có
+channel,dịch,kênh,kênh,Thị giác,không
+CNN,giữ tiếng Anh,CNN,CNN,Thị giác,có
+computer vision,dịch,thị giác máy tính,thị giác máy tính,Thị giác,có
+convolution,dịch,tích chập,tích chập,Thị giác,có
+convolutional layer,Việt (Anh),lớp tích chập (convolutional layer),lớp tích chập,Thị giác,có
+convolutional neural network,Việt (Anh),mạng nơ-ron tích chập (CNN),CNN,Thị giác,có
+cross-correlation,dịch,tương quan chéo,tương quan chéo,Thị giác,có
+feature map,Anh (Việt),feature map (bản đồ đặc trưng),feature map,Thị giác,có
+filter,dịch,bộ lọc,bộ lọc,Thị giác,không
+image classification,dịch,phân loại ảnh,phân loại ảnh,Thị giác,có
+kernel,Anh (Việt),kernel (hạt nhân),kernel,Thị giác,không
+max pooling,Anh (Việt),max pooling (gộp cực đại),max pooling,Thị giác,có
+object detection,dịch,phát hiện đối tượng,phát hiện đối tượng,Thị giác,có
+padding,Anh (Việt),padding (đệm),padding,Thị giác,có
+pooling,Anh (Việt),pooling (gộp),pooling,Thị giác,có
+receptive field,dịch,vùng tiếp nhận,vùng tiếp nhận,Thị giác,có
+semantic segmentation,dịch,phân đoạn ngữ nghĩa,phân đoạn ngữ nghĩa,Thị giác,có
+stride,Anh (Việt),stride (sải bước),stride,Thị giác,có
+agent,dịch,tác tử,tác tử,Học tăng cường,không
+environment,dịch,môi trường,môi trường,Học tăng cường,không
+exploitation,dịch,khai thác,khai thác,Học tăng cường,không
+exploration,dịch,khám phá,khám phá,Học tăng cường,không
+Markov decision process,dịch,quá trình quyết định Markov,quá trình quyết định Markov,Học tăng cường,có
+policy,dịch,chính sách,chính sách,Học tăng cường,không
+reward,dịch,phần thưởng,phần thưởng,Học tăng cường,không
+value function,dịch,hàm giá trị,hàm giá trị,Học tăng cường,có
+Bayes' theorem,dịch,định lý Bayes,định lý Bayes,Xác suất,có
+Bernoulli distribution,dịch,phân phối Bernoulli,phân phối Bernoulli,Xác suất,có
+conditional probability,dịch,xác suất có điều kiện,xác suất có điều kiện,Xác suất,có
+covariance,dịch,hiệp phương sai,hiệp phương sai,Xác suất,không
+cross-entropy,dịch,entropy chéo,entropy chéo,Xác suất,có
+cross-entropy loss,dịch,mất mát entropy chéo,mất mát entropy chéo,Xác suất,có
+distribution,dịch,phân phối,phân phối,Xác suất,không
+entropy,giữ tiếng Anh,entropy,entropy,Xác suất,có
+estimator,dịch,bộ ước lượng,bộ ước lượng,Xác suất,không
+expectation,dịch,kỳ vọng,kỳ vọng,Xác suất,không
+expected value,dịch,giá trị kỳ vọng,giá trị kỳ vọng,Xác suất,có
+Gaussian distribution,dịch,phân phối Gauss,phân phối Gauss,Xác suất,có
+independent and identically distributed,dịch,độc lập và cùng phân phối (i.i.d.),độc lập và cùng phân phối (i.i.d.),Xác suất,có
+joint probability,dịch,xác suất đồng thời,xác suất đồng thời,Xác suất,có
+KL divergence,dịch,phân kỳ KL,phân kỳ KL,Xác suất,có
+likelihood,dịch,hàm hợp lý,hàm hợp lý,Xác suất,không
+marginal probability,dịch,xác suất biên,xác suất biên,Xác suất,có
+maximum likelihood estimation,dịch,ước lượng hợp lý cực đại,ước lượng hợp lý cực đại,Xác suất,có
+normal distribution,dịch,phân phối chuẩn,phân phối chuẩn,Xác suất,có
+posterior,dịch,hậu nghiệm,hậu nghiệm,Xác suất,không
+prior,dịch,tiên nghiệm,tiên nghiệm,Xác suất,không
+probability,dịch,xác suất,xác suất,Xác suất,không
+probability distribution,dịch,phân phối xác suất,phân phối xác suất,Xác suất,có
+random variable,dịch,biến ngẫu nhiên,biến ngẫu nhiên,Xác suất,có
+standard deviation,dịch,độ lệch chuẩn,độ lệch chuẩn,Xác suất,có
+uniform distribution,dịch,phân phối đều,phân phối đều,Xác suất,có
+variance,dịch,phương sai,phương sai,Xác suất,không
+broadcasting,dịch,lan truyền (broadcasting),lan truyền (broadcasting),Toán,không
+ceiling,dịch,hàm trần,hàm trần,Toán,không
+derivative,dịch,đạo hàm,đạo hàm,Toán,không
+differentiation,dịch,vi phân,vi phân,Toán,không
+dimension,dịch,chiều,chiều,Toán,không
+dot product,dịch,tích vô hướng,tích vô hướng,Toán,có
+eigenvalue,dịch,trị riêng,trị riêng,Toán,không
+eigenvector,dịch,vectơ riêng,vectơ riêng,Toán,không
+elementwise product,dịch,tích theo từng phần tử,tích theo từng phần tử,Toán,có
+exponential,dịch,hàm mũ,hàm mũ,Toán,không
+floor,dịch,hàm sàn,hàm sàn,Toán,không
+floors and ceilings,dịch,hàm sàn và hàm trần,hàm sàn và hàm trần,Toán,có
+identity matrix,dịch,ma trận đơn vị,ma trận đơn vị,Toán,có
+integral,dịch,tích phân,tích phân,Toán,không
+inverse matrix,dịch,ma trận nghịch đảo,ma trận nghịch đảo,Toán,có
+logarithm,dịch,logarit,logarit,Toán,không
+matrix,dịch,ma trận,ma trận,Toán,không
+matrix multiplication,dịch,phép nhân ma trận,phép nhân ma trận,Toán,có
+norm,dịch,chuẩn,chuẩn,Toán,không
+partial derivative,dịch,đạo hàm riêng,đạo hàm riêng,Toán,có
+polynomial,dịch,đa thức,đa thức,Toán,không
+scalar,dịch,số vô hướng,số vô hướng,Toán,không
+transpose,dịch,chuyển vị,chuyển vị,Toán,không
+vector,dịch,vectơ,vectơ,Toán,không
+Akra-Bazzi method,dịch,phương pháp Akra-Bazzi,phương pháp Akra-Bazzi,Thuật toán,có
+algorithm,dịch,thuật toán,thuật toán,Thuật toán,không
+algorithmic recurrence,dịch,hệ thức truy hồi thuật toán,hệ thức truy hồi thuật toán,Thuật toán,có
+amortized analysis,dịch,phân tích khấu hao,phân tích khấu hao,Thuật toán,có
+approximation algorithm,dịch,thuật toán xấp xỉ,thuật toán xấp xỉ,Thuật toán,có
+asymptotic,dịch,tiệm cận,tiệm cận,Thuật toán,có
+asymptotic analysis,dịch,phân tích tiệm cận,phân tích tiệm cận,Thuật toán,có
+asymptotic notation,dịch,ký hiệu tiệm cận,ký hiệu tiệm cận,Thuật toán,có
+asymptotically tight bound,dịch,cận chặt tiệm cận,cận chặt tiệm cận,Thuật toán,có
+average case,dịch,trường hợp trung bình,trường hợp trung bình,Thuật toán,có
+backtracking,dịch,quay lui,quay lui,Thuật toán,không
+base case,dịch,trường hợp cơ sở,trường hợp cơ sở,Thuật toán,có
+best case,dịch,trường hợp tốt nhất,trường hợp tốt nhất,Thuật toán,có
+big-O notation,Việt (Anh),ký hiệu O lớn (Big-O),ký hiệu O lớn,Thuật toán,có
+binary search,dịch,tìm kiếm nhị phân,tìm kiếm nhị phân,Thuật toán,có
+branch and bound,dịch,nhánh cận,nhánh cận,Thuật toán,có
+brute force,dịch,vét cạn,vét cạn,Thuật toán,có
+Bubble sort,giữ tiếng Anh,Bubble sort,Bubble sort,Thuật toán,có
+Bucket sort,giữ tiếng Anh,Bucket sort,Bucket sort,Thuật toán,có
+Counting sort,giữ tiếng Anh,Counting sort,Counting sort,Thuật toán,có
+divide-and-conquer,dịch,chia để trị,chia để trị,Thuật toán,có
+driving function,dịch,hàm điều khiển,hàm điều khiển,Thuật toán,có
+dynamic programming,dịch,quy hoạch động,quy hoạch động,Thuật toán,có
+greedy algorithm,dịch,thuật toán tham lam,thuật toán tham lam,Thuật toán,có
+Heap sort,giữ tiếng Anh,Heap sort,Heap sort,Thuật toán,có
+Heapsort,giữ tiếng Anh,Heapsort,Heapsort,Thuật toán,có
+Huffman code,dịch,mã Huffman,mã Huffman,Thuật toán,có
+in place,dịch,tại chỗ,tại chỗ,Thuật toán,không
+inductive hypothesis,dịch,giả thiết quy nạp,giả thiết quy nạp,Thuật toán,có
+input size,dịch,kích thước đầu vào,kích thước đầu vào,Thuật toán,có
+Insertion sort,giữ tiếng Anh,Insertion sort,Insertion sort,Thuật toán,có
+Introsort,giữ tiếng Anh,Introsort,Introsort,Thuật toán,có
+Knuth-Morris-Pratt algorithm,dịch,thuật toán KMP,thuật toán KMP,Thuật toán,có
+linear search,dịch,tìm kiếm tuyến tính,tìm kiếm tuyến tính,Thuật toán,có
+loop invariant,dịch,bất biến vòng lặp,bất biến vòng lặp,Thuật toán,có
+lower bound,dịch,cận dưới,cận dưới,Thuật toán,có
+master method,dịch,phương pháp Master,phương pháp Master,Thuật toán,có
+master theorem,dịch,định lý Master,định lý Master,Thuật toán,có
+mathematical induction,dịch,quy nạp toán học,quy nạp toán học,Thuật toán,có
+memoization,dịch,ghi nhớ,ghi nhớ,Thuật toán,có
+Merge sort,giữ tiếng Anh,Merge sort,Merge sort,Thuật toán,có
+Mergesort,giữ tiếng Anh,Mergesort,Mergesort,Thuật toán,có
+NP,giữ tiếng Anh,NP,NP,Thuật toán,có
+NP-complete,dịch,NP-đầy đủ,NP-đầy đủ,Thuật toán,có
+NP-hard,dịch,NP-khó,NP-khó,Thuật toán,có
+order of growth,dịch,bậc tăng trưởng,bậc tăng trưởng,Thuật toán,có
+parallel algorithm,dịch,thuật toán song song,thuật toán song song,Thuật toán,có
+partition,dịch,phân hoạch,phân hoạch,Thuật toán,có
+pivot,Việt (Anh),phần tử chốt (pivot),phần tử chốt,Thuật toán,có
+polynomial time,dịch,thời gian đa thức,thời gian đa thức,Thuật toán,có
+pseudocode,dịch,mã giả,mã giả,Thuật toán,có
+Quick Sort,giữ tiếng Anh,Quick Sort,Quick Sort,Thuật toán,có
+Quicksort,giữ tiếng Anh,Quicksort,Quicksort,Thuật toán,có
+Rabin-Karp algorithm,dịch,thuật toán Rabin-Karp,thuật toán Rabin-Karp,Thuật toán,có
+Radix sort,giữ tiếng Anh,Radix sort,Radix sort,Thuật toán,có
+randomized algorithm,dịch,thuật toán ngẫu nhiên hóa,thuật toán ngẫu nhiên hóa,Thuật toán,có
+recurrence,dịch,hệ thức truy hồi,hệ thức truy hồi,Thuật toán,có
+recurrence relation,dịch,hệ thức truy hồi,hệ thức truy hồi,Thuật toán,có
+recursion,dịch,đệ quy,đệ quy,Thuật toán,không
+recursion tree,dịch,cây đệ quy,cây đệ quy,Thuật toán,có
+recursion-tree method,dịch,phương pháp cây đệ quy,phương pháp cây đệ quy,Thuật toán,có
+recursive,dịch,đệ quy,đệ quy,Thuật toán,không
+reduction,dịch,phép quy dẫn,phép quy dẫn,Thuật toán,không
+running time,dịch,thời gian chạy,thời gian chạy,Thuật toán,có
+Selection sort,giữ tiếng Anh,Selection sort,Selection sort,Thuật toán,có
+Shell sort,giữ tiếng Anh,Shell sort,Shell sort,Thuật toán,có
+sorting,dịch,sắp xếp,sắp xếp,Thuật toán,không
+sorting algorithm,dịch,thuật toán sắp xếp,thuật toán sắp xếp,Thuật toán,có
+space complexity,dịch,độ phức tạp không gian,độ phức tạp không gian,Thuật toán,có
+stable sort,dịch,sắp xếp ổn định,sắp xếp ổn định,Thuật toán,có
+Strassen's algorithm,dịch,thuật toán Strassen,thuật toán Strassen,Thuật toán,có
+string matching,dịch,so khớp chuỗi,so khớp chuỗi,Thuật toán,có
+subproblem,dịch,bài toán con,bài toán con,Thuật toán,có
+substitution method,dịch,phương pháp thế,phương pháp thế,Thuật toán,có
+task-parallel computing,dịch,tính toán song song theo tác vụ,tính toán song song theo tác vụ,Thuật toán,có
+tight bound,dịch,cận chặt,cận chặt,Thuật toán,có
+time complexity,dịch,độ phức tạp thời gian,độ phức tạp thời gian,Thuật toán,có
+Timsort,giữ tiếng Anh,Timsort,Timsort,Thuật toán,có
+upper bound,dịch,cận trên,cận trên,Thuật toán,có
+watershed function,dịch,hàm phân thủy,hàm phân thủy,Thuật toán,có
+worst case,dịch,trường hợp xấu nhất,trường hợp xấu nhất,Thuật toán,có
+worst-case running time,dịch,thời gian chạy trong trường hợp xấu nhất,thời gian chạy trong trường hợp xấu nhất,Thuật toán,có
+array,dịch,mảng,mảng,Cấu trúc dữ liệu,không
+B-tree,giữ tiếng Anh,B-tree,B-tree,Cấu trúc dữ liệu,có
+binary heap,dịch,đống nhị phân,đống nhị phân,Cấu trúc dữ liệu,có
+binary indexed tree,Việt (Anh),cây chỉ số nhị phân (BIT),BIT,Cấu trúc dữ liệu,có
+binary search tree,dịch,cây tìm kiếm nhị phân,cây tìm kiếm nhị phân,Cấu trúc dữ liệu,có
+binary tree,dịch,cây nhị phân,cây nhị phân,Cấu trúc dữ liệu,có
+collision,dịch,xung đột,xung đột,Cấu trúc dữ liệu,không
+data structure,dịch,cấu trúc dữ liệu,cấu trúc dữ liệu,Cấu trúc dữ liệu,có
+depth,dịch,độ sâu,độ sâu,Cấu trúc dữ liệu,không
+deque,giữ tiếng Anh,deque,deque,Cấu trúc dữ liệu,có
+disjoint set,dịch,tập rời rạc,tập rời rạc,Cấu trúc dữ liệu,có
+disjoint-set union,giữ tiếng Anh,disjoint-set union (DSU),disjoint-set union (DSU),Cấu trúc dữ liệu,có
+doubly linked list,dịch,danh sách liên kết đôi,danh sách liên kết đôi,Cấu trúc dữ liệu,có
+Fenwick tree,dịch,cây Fenwick,cây Fenwick,Cấu trúc dữ liệu,có
+hash function,dịch,hàm băm,hàm băm,Cấu trúc dữ liệu,có
+hash table,Việt (Anh),bảng băm (hash table),bảng băm,Cấu trúc dữ liệu,có
+heap,Anh (Việt),heap (đống),heap,Cấu trúc dữ liệu,không
+height,dịch,chiều cao,chiều cao,Cấu trúc dữ liệu,không
+internal node,dịch,nút trong,nút trong,Cấu trúc dữ liệu,có
+LCA,giữ tiếng Anh,LCA,LCA,Cấu trúc dữ liệu,có
+leaf,dịch,lá,lá,Cấu trúc dữ liệu,không
+linked list,dịch,danh sách liên kết,danh sách liên kết,Cấu trúc dữ liệu,có
+max-heap,giữ tiếng Anh,max-heap,max-heap,Cấu trúc dữ liệu,có
+min-heap,giữ tiếng Anh,min-heap,min-heap,Cấu trúc dữ liệu,có
+node,dịch,nút,nút,Cấu trúc dữ liệu,không
+pointer,dịch,con trỏ,con trỏ,Cấu trúc dữ liệu,không
+priority queue,Việt (Anh),hàng đợi ưu tiên (priority queue),hàng đợi ưu tiên,Cấu trúc dữ liệu,có
+queue,Việt (Anh),hàng đợi (queue),hàng đợi,Cấu trúc dữ liệu,có
+red-black tree,dịch,cây đỏ-đen,cây đỏ-đen,Cấu trúc dữ liệu,có
+root,dịch,gốc,gốc,Cấu trúc dữ liệu,không
+segment tree,Việt (Anh),cây phân đoạn (segment tree),cây phân đoạn,Cấu trúc dữ liệu,có
+skip list,giữ tiếng Anh,skip list,skip list,Cấu trúc dữ liệu,có
+sparse table,giữ tiếng Anh,sparse table,sparse table,Cấu trúc dữ liệu,có
+stack,Việt (Anh),ngăn xếp (stack),ngăn xếp,Cấu trúc dữ liệu,có
+subtree,dịch,cây con,cây con,Cấu trúc dữ liệu,không
+tree,dịch,cây,cây,Cấu trúc dữ liệu,không
+trie,giữ tiếng Anh,trie,trie,Cấu trúc dữ liệu,có
+van Emde Boas tree,dịch,cây van Emde Boas,cây van Emde Boas,Cấu trúc dữ liệu,có
+adjacency list,dịch,danh sách kề,danh sách kề,Đồ thị,có
+adjacency matrix,dịch,ma trận kề,ma trận kề,Đồ thị,có
+Bellman-Ford algorithm,dịch,thuật toán Bellman-Ford,thuật toán Bellman-Ford,Đồ thị,có
+BFS,giữ tiếng Anh,BFS,BFS,Đồ thị,có
+breadth-first search,Việt (Anh),tìm kiếm theo chiều rộng (BFS),BFS,Đồ thị,có
+connected component,dịch,thành phần liên thông,thành phần liên thông,Đồ thị,có
+cycle,dịch,chu trình,chu trình,Đồ thị,không
+DAG,giữ tiếng Anh,DAG,DAG,Đồ thị,có
+depth-first search,Việt (Anh),tìm kiếm theo chiều sâu (DFS),DFS,Đồ thị,có
+DFS,giữ tiếng Anh,DFS,DFS,Đồ thị,có
+Dijkstra's algorithm,dịch,thuật toán Dijkstra,thuật toán Dijkstra,Đồ thị,có
+directed acyclic graph,Việt (Anh),đồ thị có hướng không chu trình (DAG),DAG,Đồ thị,có
+directed graph,dịch,đồ thị có hướng,đồ thị có hướng,Đồ thị,có
+edge,dịch,cạnh,cạnh,Đồ thị,không
+Edmonds-Karp algorithm,dịch,thuật toán Edmonds-Karp,thuật toán Edmonds-Karp,Đồ thị,có
+Floyd-Warshall algorithm,dịch,thuật toán Floyd-Warshall,thuật toán Floyd-Warshall,Đồ thị,có
+Ford-Fulkerson method,dịch,phương pháp Ford-Fulkerson,phương pháp Ford-Fulkerson,Đồ thị,có
+graph,dịch,đồ thị,đồ thị,Đồ thị,không
+Kruskal's algorithm,dịch,thuật toán Kruskal,thuật toán Kruskal,Đồ thị,có
+maximum flow,dịch,luồng cực đại,luồng cực đại,Đồ thị,có
+minimum spanning tree,dịch,cây khung nhỏ nhất,cây khung nhỏ nhất,Đồ thị,có
+path,dịch,đường đi,đường đi,Đồ thị,không
+Prim's algorithm,dịch,thuật toán Prim,thuật toán Prim,Đồ thị,có
+shortest path,dịch,đường đi ngắn nhất,đường đi ngắn nhất,Đồ thị,có
+topological sort,Việt (Anh),sắp xếp topo (topological sort),sắp xếp topo,Đồ thị,có
+undirected graph,dịch,đồ thị vô hướng,đồ thị vô hướng,Đồ thị,có
+vertex,dịch,đỉnh,đỉnh,Đồ thị,không
+weighted graph,dịch,đồ thị có trọng số,đồ thị có trọng số,Đồ thị,có
+API,giữ tiếng Anh,API,API,Lập trình,có
+argument,dịch,đối số,đối số,Lập trình,không
+bug,dịch,lỗi,lỗi,Lập trình,không
+class,dịch,lớp,lớp,Lập trình,không
+code,dịch,mã,mã,Lập trình,không
+command line,dịch,dòng lệnh,dòng lệnh,Lập trình,có
+compiler,dịch,trình biên dịch,trình biên dịch,Lập trình,không
+debugging,dịch,gỡ lỗi,gỡ lỗi,Lập trình,không
+function,dịch,hàm,hàm,Lập trình,không
+implementation,dịch,cài đặt,cài đặt,Lập trình,không
+instance,dịch,thể hiện,thể hiện,Lập trình,không
+interface,dịch,giao diện,giao diện,Lập trình,không
+interpreter,dịch,trình thông dịch,trình thông dịch,Lập trình,không
+library,dịch,thư viện,thư viện,Lập trình,không
+loop,dịch,vòng lặp,vòng lặp,Lập trình,không
+method,dịch,phương thức,phương thức,Lập trình,không
+module,dịch,mô-đun,mô-đun,Lập trình,không
+notebook,giữ tiếng Anh,notebook,notebook,Lập trình,có
+object,dịch,đối tượng,đối tượng,Lập trình,không
+open source,dịch,mã nguồn mở,mã nguồn mở,Lập trình,có
+package,dịch,gói,gói,Lập trình,không
+programming language,dịch,ngôn ngữ lập trình,ngôn ngữ lập trình,Lập trình,có
+repository,dịch,kho mã,kho mã,Lập trình,không
+source code,dịch,mã nguồn,mã nguồn,Lập trình,có
+variable,dịch,biến,biến,Lập trình,không
+cache,dịch,bộ nhớ đệm,bộ nhớ đệm,Hệ thống,không
+computer network,dịch,mạng máy tính,mạng máy tính,Hệ thống,có
+CPU,giữ tiếng Anh,CPU,CPU,Hệ thống,có
+database,dịch,cơ sở dữ liệu,cơ sở dữ liệu,Hệ thống,không
+distributed system,dịch,hệ thống phân tán,hệ thống phân tán,Hệ thống,có
+memory,dịch,bộ nhớ,bộ nhớ,Hệ thống,không
+operating system,dịch,hệ điều hành,hệ điều hành,Hệ thống,có
+parallel computing,dịch,tính toán song song,tính toán song song,Hệ thống,có
+process,dịch,tiến trình,tiến trình,Hệ thống,không
+thread,dịch,luồng,luồng,Hệ thống,không

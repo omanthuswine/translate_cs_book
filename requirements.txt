@@ -1,0 +1,12 @@
+# Pipeline va ung dung (B)
+pymupdf
+requests
+psutil
+
+# Kiem tra
+pytest
+
+# Them khi den tuan can dung:
+# babeldoc        # tuan 1-2, ghep PDF
+# gradio          # tuan 4, giao dien
+# pandas openpyxl # danh gia (A)

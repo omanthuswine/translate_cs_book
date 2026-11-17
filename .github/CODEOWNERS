@@ -1,0 +1,10 @@
+# Ai duyet thay doi o thu muc nao.
+# Thay ten-github-cua-A / ten-github-cua-B bang ten tai khoan GitHub that, roi bo dau # o dau dong.
+
+# /terms/     @ten-github-cua-A
+# /model/     @ten-github-cua-A
+# /eval/      @ten-github-cua-A
+# /pipeline/  @ten-github-cua-B
+# /app/       @ten-github-cua-B
+# /bench/     @ten-github-cua-B
+# /tests/test_contract.py  @ten-github-cua-A @ten-github-cua-B

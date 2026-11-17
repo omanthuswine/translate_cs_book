@@ -1,0 +1,2 @@
+ngay,may,cpu,ram_gb,gpu,runtime,mo_hinh,token_moi_giay,thoi_gian_trang_dau_s,cpu_phan_tram,ram_dung_gb,ghi_chu
+2026-11-16,Kaggle,,,T4 x2,transformers + bitsandbytes 4-bit,TranslateGemma 4B,23,,,,"708 doan mat 54,7 phut; khong dai dien cho laptop"

@@ -1,0 +1,4 @@
+ngay,he_thong,bo_thu,cau_hinh,chrF_d2l,chrF_dsa,sai_thuat_ngu_d2l,sai_thuat_ngu_dsa,nhat_quan_thuat_ngu,giu_nguyen_code,ghi_chu
+2026-11-17,TranslateGemma 4B,708 doan (d2l + CLRS),"Kaggle T4, nen 4-bit bitsandbytes, khong chen thuat ngu",65.7,55.1,6/317,82/111,78%,33/81,moc xuat phat; chrF so voi ban ChatGPT
+2026-11-17,TranslateGemma 12B,708 doan (d2l + CLRS),"Kaggle T4, nen 4-bit bitsandbytes, khong chen thuat ngu",66.7,59.7,8/317,47/111,75%,29/81,moc xuat phat
+2026-11-17,ChatGPT,708 doan (d2l + CLRS),"ban web, dan tung trang",,,4/317,0/111,98%,65/81,ban tham chieu

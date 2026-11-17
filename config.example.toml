@@ -1,0 +1,16 @@
+# Sao chep thanh config.toml roi sua cho dung may cua ban. config.toml khong dua vao Git.
+
+[model]
+# File mo hinh GGUF. Truoc tuan 3 dung ban goc, sau do thay bang ban A da tinh chinh.
+path = "models/translategemma-4b-it-Q4_K_M.gguf"
+# Dia chi llama.cpp server (chay: llama-server -m <path> --port 8080)
+server_url = "http://localhost:8080"
+
+[terms]
+glossary = "terms/glossary_cs_vi.csv"
+
+[run]
+# "tu_dong" | "nhe" | "nhanh"
+mode = "tu_dong"
+# So trang dich truoc so voi trang dang doc
+pages_ahead = 4

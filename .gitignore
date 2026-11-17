@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Cau hinh rieng tung may
+config.toml
+.env
+
+# File lon: de tren Drive chung, khong dua vao Git
+*.gguf
+*.safetensors
+*.bin
+*.pdf
+models/
+books/
+out/
+cache/
+kaggle_output/

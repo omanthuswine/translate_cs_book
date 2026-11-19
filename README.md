@@ -5,7 +5,7 @@ giữ nguyên bố cục và công thức, dùng thuật ngữ chuyên ngành nh
 
 - **Mô hình dịch:** TranslateGemma 4B (Google), nén 4-bit, chạy bằng llama.cpp, không cần GPU rời.
 - **Giữ bố cục PDF:** thư viện BabelDOC.
-- **Thuật ngữ:** bảng 481 thuật ngữ trong `terms/glossary_cs_vi.csv`.
+- **Thuật ngữ:** bảng 484 thuật ngữ trong `terms/glossary_cs_vi.csv`.
 
 Kế hoạch đầy đủ (mục tiêu, lịch 5 tuần, rủi ro): xem tài liệu kế hoạch chung của nhóm.
 Danh sách việc của từng người: [`docs/viec_nguoi_A.md`](docs/viec_nguoi_A.md), [`docs/viec_nguoi_B.md`](docs/viec_nguoi_B.md).

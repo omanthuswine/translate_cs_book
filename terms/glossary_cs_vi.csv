@@ -188,6 +188,7 @@ long short-term memory,Việt (Anh),bộ nhớ ngắn hạn dài (LSTM),LSTM,NLP
 LSTM,giữ tiếng Anh,LSTM,LSTM,NLP,có
 machine translation,dịch,dịch máy,dịch máy,NLP,có
 memory cell,dịch,ô nhớ,ô nhớ,NLP,có
+memory cell internal state,dịch,trạng thái nội tại của ô nhớ,trạng thái nội tại của ô nhớ,NLP,có
 multi-head attention,Anh (Việt),multi-head attention (chú ý đa đầu),multi-head attention,NLP,có
 natural language processing,dịch,xử lý ngôn ngữ tự nhiên,xử lý ngôn ngữ tự nhiên,NLP,có
 output gate,dịch,cổng đầu ra,cổng đầu ra,NLP,có
@@ -306,6 +307,8 @@ asymptotic,dịch,tiệm cận,tiệm cận,Thuật toán,có
 asymptotic analysis,dịch,phân tích tiệm cận,phân tích tiệm cận,Thuật toán,có
 asymptotic notation,dịch,ký hiệu tiệm cận,ký hiệu tiệm cận,Thuật toán,có
 asymptotically tight bound,dịch,cận chặt tiệm cận,cận chặt tiệm cận,Thuật toán,có
+asymptotic upper bound,dịch,cận trên tiệm cận,cận trên tiệm cận,Thuật toán,có
+asymptotic lower bound,dịch,cận dưới tiệm cận,cận dưới tiệm cận,Thuật toán,có
 average case,dịch,trường hợp trung bình,trường hợp trung bình,Thuật toán,có
 backtracking,dịch,quay lui,quay lui,Thuật toán,không
 base case,dịch,trường hợp cơ sở,trường hợp cơ sở,Thuật toán,có
@@ -318,7 +321,7 @@ Bubble sort,giữ tiếng Anh,Bubble sort,Bubble sort,Thuật toán,có
 Bucket sort,giữ tiếng Anh,Bucket sort,Bucket sort,Thuật toán,có
 Counting sort,giữ tiếng Anh,Counting sort,Counting sort,Thuật toán,có
 divide-and-conquer,dịch,chia để trị,chia để trị,Thuật toán,có
-driving function,dịch,hàm điều khiển,hàm điều khiển,Thuật toán,có
+driving function,Anh (Việt),driving function (hàm điều khiển),driving function,Thuật toán,có
 dynamic programming,dịch,quy hoạch động,quy hoạch động,Thuật toán,có
 greedy algorithm,dịch,thuật toán tham lam,thuật toán tham lam,Thuật toán,có
 Heap sort,giữ tiếng Anh,Heap sort,Heap sort,Thuật toán,có
@@ -376,7 +379,7 @@ tight bound,dịch,cận chặt,cận chặt,Thuật toán,có
 time complexity,dịch,độ phức tạp thời gian,độ phức tạp thời gian,Thuật toán,có
 Timsort,giữ tiếng Anh,Timsort,Timsort,Thuật toán,có
 upper bound,dịch,cận trên,cận trên,Thuật toán,có
-watershed function,dịch,hàm phân thủy,hàm phân thủy,Thuật toán,có
+watershed function,Anh (Việt),watershed function (hàm phân thủy),watershed function,Thuật toán,có
 worst case,dịch,trường hợp xấu nhất,trường hợp xấu nhất,Thuật toán,có
 worst-case running time,dịch,thời gian chạy trong trường hợp xấu nhất,thời gian chạy trong trường hợp xấu nhất,Thuật toán,có
 array,dịch,mảng,mảng,Cấu trúc dữ liệu,không

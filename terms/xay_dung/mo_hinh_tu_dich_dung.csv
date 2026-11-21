@@ -1,0 +1,23 @@
+en,so_doan,ty_le_dung
+RNN,15,0.93
+neural network,10,1.0
+GRU,10,1.0
+LSTM,10,1.0
+MLP,9,1.0
+ReLU,8,1.0
+sigmoid function,8,1.0
+API,8,1.0
+objective function,6,1.0
+data structure,5,1.0
+loss function,4,1.0
+sequence model,4,1.0
+learning algorithm,4,1.0
+GPU,3,1.0
+tensor,3,1.0
+bidirectional,3,1.0
+forget gate,3,1.0
+input gate,3,1.0
+output gate,3,1.0
+random variable,3,1.0
+command line,3,1.0
+natural language,3,1.0

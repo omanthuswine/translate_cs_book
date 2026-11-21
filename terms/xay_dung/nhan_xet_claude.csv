@@ -1,0 +1,404 @@
+en,hanh_dong,cach_xu_ly,vi,dau,tu_dong,ly_do
+overfit,sửa,Anh (Việt),quá khớp,,có,nhất quán với overfitting (cùng khái niệm thì cùng cách viết)
+generative adversarial network,sửa,Anh (Việt),mạng đối sinh,GAN,có,viết tắt GAN dùng phổ biến; số liệu thiếu vì đếm tên dài
+clustering,sửa,Anh (Việt),phân cụm,,ngữ cảnh,"clustering" bên hệ thống là cụm máy chủ: chỉ chèn trong ngữ cảnh học máy
+bounding box,sửa,Anh (Việt),hộp giới hạn,,có,giới thị giác máy hay giữ "bounding box"; lưng chừng -> Anh (Việt) như v4
+garbage collection,sửa,Anh (Việt),thu gom rác,,không,Microsoft dịch từng chữ "bộ sưu tập rác"; dân lập trình nói "thu gom rác"
+garbage collector,sửa,dịch,bộ thu gom rác,,có,
+authentication,sửa,dịch,xác thực,,không,người Việt dịch áp đảo
+byte,sửa,giữ tiếng Anh,,,không,
+cryptography,sửa,dịch,mật mã học,,không,
+institute of electrical and electronics engineers,bỏ,,,,,tên tổ chức
+header,sửa,Anh (Việt),tiêu đề,,không,lưng chừng; từ "header" còn nghĩa đầu trang
+computation,sửa,dịch,tính toán,,không,
+open rights group,bỏ,,,,,tên tổ chức
+integer,sửa,dịch,số nguyên,,không,
+address space,sửa,Anh (Việt),không gian địa chỉ,,không,
+syntax,sửa,dịch,cú pháp,,không,
+page table,sửa,Anh (Việt),bảng trang,,có,thuật ngữ hệ điều hành; sách tiếng Việt dùng "bảng trang"
+cate,bỏ,,,,,mảnh chữ PDF vỡ (certificate/indicate mất "fi")
+dif,bỏ,,,,,mảnh chữ PDF vỡ (different mất "fer")
+abstraction,sửa,dịch,trừu tượng hóa,,không,
+scheduling,sửa,dịch,lập lịch,,không,
+HTML,sửa,giữ tiếng Anh,,,không,
+USENIX,bỏ,,,,,tên tổ chức
+offset,sửa,giữ tiếng Anh,,,không,dân lập trình giữ "offset"
+system call,sửa,Anh (Việt),lời gọi hệ thống,,có,
+bytecode,sửa,giữ tiếng Anh,,,có,
+vulnerability,sửa,dịch,lỗ hổng,,không,
+multicast,sửa,giữ tiếng Anh,,,có,
+local variable,sửa,dịch,biến cục bộ,,không,
+cally,bỏ,,,,,mảnh chữ PDF vỡ (specifically)
+specify,bỏ,,,,,động từ thường
+workload,sửa,Anh (Việt),khối lượng công việc,,không,
+identifier,sửa,dịch,định danh,,không,
+interrupt,sửa,dịch,ngắt,,không,
+control systems,bỏ,,,,,cụm từ chung
+national institute of standards and technology,bỏ,,,,,tên tổ chức
+virtual address,sửa,dịch,địa chỉ ảo,,không,
+virtual memory,sửa,dịch,bộ nhớ ảo,,không,
+conditional,bỏ,,,,,tính từ chung
+datagram,sửa,giữ tiếng Anh,,,có,
+theorem,sửa,dịch,định lý,,không,
+virtualization,sửa,dịch,ảo hóa,,không,
+risk assessment,sửa,dịch,đánh giá rủi ro,,không,
+formal methods,sửa,dịch,phương pháp hình thức,,không,
+botnet,sửa,giữ tiếng Anh,,,có,
+service provider,sửa,dịch,nhà cung cấp dịch vụ,,không,
+risk management,sửa,dịch,quản lý rủi ro,,không,
+javascript,bỏ,,,,,tên riêng
+github,bỏ,,,,,tên riêng
+wikipedia,bỏ,,,,,tên riêng
+SQL,sửa,giữ tiếng Anh,,,không,
+large number,bỏ,,,,,cụm từ chung
+stochastic,bỏ,,,,,tính từ chung (thường nằm trong cụm khác)
+Hierarchy,bỏ,,,,,từ chung
+security policy,sửa,dịch,chính sách bảo mật,,không,
+software security,sửa,dịch,bảo mật phần mềm,,không,
+wiki,bỏ,,,,,tên riêng
+mitigation,bỏ,,,,,từ chung
+Attribute,sửa,dịch,thuộc tính,,không,
+payload,sửa,giữ tiếng Anh,,,không,giới bảo mật/mạng giữ "payload"
+countermeasures,bỏ,,,,,từ chung
+intrusion detection,sửa,dịch,phát hiện xâm nhập,,không,
+arithmetic,sửa,dịch,số học,,không,
+Diagram,bỏ,,,,,từ chung
+overlay,sửa,giữ tiếng Anh,,,không,"mạng overlay"
+FIFO,sửa,giữ tiếng Anh,,,không,
+lexeme,sửa,Anh (Việt),từ vị,,có,giáo trình chương trình dịch dùng "từ vị"
+timeout,sửa,giữ tiếng Anh,,,không,
+URL,sửa,giữ tiếng Anh,,,không,
+synchronization,sửa,dịch,đồng bộ hóa,,không,
+computer systems,bỏ,,,,,cụm từ chung
+hypothesis,sửa,dịch,giả thuyết,,không,
+cipher,sửa,dịch,mật mã,,không,
+software lifecycle,sửa,dịch,vòng đời phần mềm,,không,
+correctness,bỏ,,,,,từ chung
+metric,sửa,Anh (Việt),độ đo,,không,giới học máy/devops hay giữ "metric"
+reuse,bỏ,,,,,động từ thường
+cyber-physical systems,sửa,Anh (Việt),hệ thống vật lý - không gian mạng,,không,
+sequence number,sửa,Anh (Việt),số thứ tự,,không,
+remzi,bỏ,,,,,tên người (tác giả OSTEP)
+semaphore,sửa,giữ tiếng Anh,,,có,mô hình dễ dịch nhầm thành "đèn tín hiệu"
+system security,bỏ,,,,,cụm từ chung
+hardware security,sửa,dịch,bảo mật phần cứng,,không,
+CRUX,bỏ,,,,,tên mục trong sách OSTEP
+physical layer,sửa,dịch,tầng vật lý,,không,
+deadlock,sửa,Anh (Việt),bế tắc,,có,lưng chừng; giáo trình dùng "bế tắc"; dân lập trình nói "deadlock"
+fragmentation,sửa,dịch,phân mảnh,,không,
+solid-state drive,sửa,Anh (Việt),ổ đĩa thể rắn,SSD,không,
+word vectors,sửa,dịch,vectơ từ,,không,
+timer,sửa,dịch,bộ định thời,,không,
+ciphertext,sửa,dịch,bản mã,,có,thuật ngữ mật mã chuẩn (plaintext = bản rõ)
+language processing,bỏ,,,,,mảnh của "natural language processing"
+memory management,sửa,dịch,quản lý bộ nhớ,,không,
+block cipher,sửa,dịch,mã khối,,không,
+physical address,sửa,dịch,địa chỉ vật lý,,không,
+nally,bỏ,,,,,mảnh chữ PDF vỡ (finally)
+intuition,bỏ,,,,,từ chung
+executable,sửa,dịch,tệp thực thi,,không,
+congestion control,sửa,dịch,kiểm soát tắc nghẽn,,có,thuật ngữ mạng; thống nhất một cách viết
+international law,bỏ,,,,,ngoài phạm vi
+xed,bỏ,,,,,mảnh chữ PDF vỡ (fixed)
+routing table,sửa,dịch,bảng định tuyến,,có,
+routing protocols,sửa,dịch,giao thức định tuyến,,không,
+redundancy,bỏ,,,,,từ chung
+Bitmap,sửa,giữ tiếng Anh,,,không,
+search path,bỏ,,,,,cụm từ chung
+printf,bỏ,,,,,tên hàm
+random number,bỏ,,,,,cụm từ chung
+topology,sửa,Anh (Việt),cấu trúc liên kết,,không,
+SSH,sửa,giữ tiếng Anh,,,không,
+function calls,bỏ,,,,,cụm từ chung
+side channel,sửa,Anh (Việt),kênh bên,,không,
+data block,sửa,dịch,khối dữ liệu,,không,
+inheritance,sửa,dịch,kế thừa,,không,
+application programs,bỏ,,,,,cụm từ chung
+primary key,sửa,dịch,khóa chính,,không,
+search tree,sửa,dịch,cây tìm kiếm,,không,
+web page,sửa,dịch,trang web,,không,
+macro,sửa,giữ tiếng Anh,,,không,
+congestion window,sửa,Anh (Việt),cửa sổ tắc nghẽn,,có,
+textbook,bỏ,,,,,từ chung
+session key,sửa,dịch,khóa phiên,,không,
+static analysis,sửa,dịch,phân tích tĩnh,,không,
+resource allocation,sửa,dịch,cấp phát tài nguyên,,không,
+transport protocol,sửa,dịch,giao thức giao vận,,không,
+constant time,sửa,dịch,thời gian hằng số,,không,
+approximation,sửa,dịch,xấp xỉ,,không,
+OWASP,bỏ,,,,,tên tổ chức
+management systems,bỏ,,,,,cụm từ chung
+reinforcement,bỏ,,,,,mảnh của "reinforcement learning"
+XML,sửa,giữ tiếng Anh,,,không,
+power grid,bỏ,,,,,ngoài phạm vi
+forwarding table,sửa,dịch,bảng chuyển tiếp,,có,
+ATM,bỏ,,,,,đa nghĩa (máy rút tiền / Asynchronous Transfer Mode); mô hình tự giữ chữ viết tắt
+attestation,sửa,Anh (Việt),chứng thực,,không,
+glove,bỏ,,,,,tên mô hình GloVe (Wikipedia dịch nhầm "găng tay")
+estimation,bỏ,,,,,từ chung
+mutex lock,sửa,giữ tiếng Anh,,,có,
+factorization,bỏ,,,,,đa nghĩa (phân tích thừa số / phân rã ma trận)
+tort,bỏ,,,,,ngoài phạm vi
+phishing,sửa,Anh (Việt),tấn công giả mạo,,không,
+key exchange,sửa,dịch,trao đổi khóa,,không,
+industrial control,bỏ,,,,,mảnh của "industrial control systems"
+handshake,sửa,Anh (Việt),bắt tay,,không,
+authentication protocols,sửa,dịch,giao thức xác thực,,không,
+role-based access control,sửa,Anh (Việt),kiểm soát truy cập dựa trên vai trò,,không,
+permutation,sửa,dịch,hoán vị,,không,
+deep neural networks,sửa,dịch,mạng nơ-ron sâu,,không,
+transport layer,sửa,dịch,tầng giao vận,,không,
+anomaly detection,sửa,dịch,phát hiện bất thường,,không,
+security information and event management,bỏ,,,,,tên sản phẩm/loại sản phẩm dài
+hypervisor,sửa,giữ tiếng Anh,,,có,
+virtual circuit,sửa,dịch,mạch ảo,,không,
+need to know,bỏ,,,,,cụm từ chung
+sensitive information,bỏ,,,,,cụm từ chung
+biometric,sửa,dịch,sinh trắc học,,không,
+wireless networks,sửa,dịch,mạng không dây,,không,
+init,bỏ,,,,,tên hàm
+visualize,bỏ,,,,,động từ thường
+intellectual property,bỏ,,,,,ngoài phạm vi
+sliding window,sửa,dịch,cửa sổ trượt,,không,
+sizeof,bỏ,,,,,tên toán tử C
+fsck,bỏ,,,,,tên chương trình
+root of trust,sửa,Anh (Việt),gốc tin cậy,,không,
+language modeling,sửa,dịch,mô hình hóa ngôn ngữ,,không,
+heuristic,sửa,giữ tiếng Anh,,,không,
+TensorFlow,bỏ,,,,,tên riêng
+randomness,bỏ,,,,,từ chung
+mesh,bỏ,,,,,Microsoft dịch nhầm "đám mây"; đa nghĩa
+IBM,bỏ,,,,,tên riêng
+interception,bỏ,,,,,từ chung
+image augmentation,sửa,dịch,tăng cường ảnh,,không,
+gaussian process,sửa,dịch,quá trình Gauss,,không,
+gaussian processes,bỏ,,,,,số nhiều của gaussian process
+unicast,sửa,giữ tiếng Anh,,,có,
+mobile devices,bỏ,,,,,cụm từ chung
+denial of service,sửa,Anh (Việt),từ chối dịch vụ,,không,
+database design,sửa,dịch,thiết kế cơ sở dữ liệu,,không,
+inode number,sửa,giữ tiếng Anh,,,không,
+software engineering,sửa,dịch,công nghệ phần mềm,,không,
+QUIC,bỏ,,,,,tên giao thức; mô hình tự giữ
+outgoing,bỏ,,,,,từ chung
+linear models,sửa,dịch,mô hình tuyến tính,,không,
+software development,sửa,dịch,phát triển phần mềm,,không,
+model checking,sửa,Anh (Việt),kiểm chứng mô hình,,không,
+SCADA,bỏ,,,,,tên hệ thống
+anonymity,sửa,dịch,tính ẩn danh,,không,
+trade secret,bỏ,,,,,ngoài phạm vi
+random search,sửa,dịch,tìm kiếm ngẫu nhiên,,không,
+hard disk,sửa,dịch,ổ cứng,,không,
+context switch,sửa,Anh (Việt),chuyển ngữ cảnh,,có,
+free list,sửa,Anh (Việt),danh sách trống,,không,
+service model,bỏ,,,,,cụm từ chung
+function declaration,sửa,dịch,khai báo hàm,,không,
+infix,sửa,dịch,trung tố,,không,
+instruction set,sửa,dịch,tập lệnh,,không,
+database management,bỏ,,,,,mảnh của "database management system"
+virtual page,sửa,dịch,trang ảo,,không,
+taxonomy,bỏ,,,,,từ chung
+risk assessment and management,bỏ,,,,,cụm dài
+digital forensics,sửa,Anh (Việt),điều tra số,,không,
+race condition,sửa,Anh (Việt),điều kiện tranh chấp,,có,
+access control lists,sửa,Anh (Việt),danh sách kiểm soát truy cập,,không,
+ASCII,sửa,giữ tiếng Anh,,,không,
+cyberspace,sửa,dịch,không gian mạng,,không,
+grpc,bỏ,,,,,tên thư viện
+internet service provider,sửa,Anh (Việt),nhà cung cấp dịch vụ Internet,ISP,không,
+cloud services,sửa,dịch,dịch vụ đám mây,,không,
+credit card,bỏ,,,,,ngoài phạm vi
+binary operators,sửa,dịch,toán tử hai ngôi,,không,
+indirection,bỏ,,,,,khó dịch thống nhất; để mô hình tự dịch
+industrial control systems,sửa,dịch,hệ thống điều khiển công nghiệp,,không,
+simpli,bỏ,,,,,mảnh chữ PDF vỡ (simplified)
+invariant,sửa,dịch,bất biến,,không,
+JPEG,bỏ,,,,,tên định dạng
+subnet,sửa,Anh (Việt),mạng con,,không,
+admission control,sửa,Anh (Việt),kiểm soát chấp nhận,,không,
+method calls,bỏ,,,,,cụm từ chung
+malware analysis,sửa,dịch,phân tích mã độc,,không,
+elliptic curve,sửa,dịch,đường cong elliptic,,không,
+intrusion detection system,sửa,dịch,hệ thống phát hiện xâm nhập,,không,
+public key cryptography,sửa,dịch,mật mã khóa công khai,,không,
+reference monitor,sửa,Anh (Việt),bộ giám sát tham chiếu,,không,
+macroblock,bỏ,,,,,ngoài phạm vi (mã hóa video)
+lines of code,sửa,dịch,dòng mã,,không,
+signature scheme,sửa,dịch,lược đồ chữ ký,,không,
+symposium on operating systems principles,bỏ,,,,,tên hội nghị
+virtual address space,sửa,dịch,không gian địa chỉ ảo,,không,
+canonical,bỏ,,,,,tính từ chung
+law enforcement,bỏ,,,,,ngoài phạm vi
+global positioning system,bỏ,,,,,tên hệ thống (GPS)
+key management,sửa,dịch,quản lý khóa,,không,
+NVIDIA,bỏ,,,,,tên riêng
+convolution kernel,sửa,dịch,hạt nhân tích chập,,không,
+summarize,bỏ,,,,,động từ thường
+best practices,bỏ,,,,,cụm từ chung
+variable declaration,sửa,dịch,khai báo biến,,không,
+side effects,sửa,Anh (Việt),hiệu ứng phụ,,không,
+risk governance,bỏ,,,,,ngoài phạm vi
+incident response,sửa,dịch,ứng phó sự cố,,không,
+trusted computing,bỏ,,,,,khó dịch thống nhất
+member states,bỏ,,,,,ngoài phạm vi
+mobile applications,bỏ,,,,,cụm từ chung
+database system,sửa,dịch,hệ cơ sở dữ liệu,,không,
+matrix factorization,sửa,dịch,phân rã ma trận,,không,
+confidentiality,sửa,dịch,tính bí mật,,không,
+side-channel attacks,sửa,Anh (Việt),tấn công kênh bên,,không,
+control mechanisms,bỏ,,,,,cụm từ chung
+README,bỏ,,,,,tên tệp
+storage system,sửa,dịch,hệ thống lưu trữ,,không,
+concatenation,sửa,dịch,phép nối,,không,
+Namespace,sửa,Anh (Việt),không gian tên,,không,
+hash code,sửa,Anh (Việt),mã băm,,không,
+special case,bỏ,,,,,cụm từ chung
+application security,sửa,dịch,bảo mật ứng dụng,,không,
+wireless communication,bỏ,,,,,cụm từ chung
+system design,bỏ,,,,,cụm từ chung
+sentiment analysis,sửa,dịch,phân tích cảm xúc,,không,
+user mode,sửa,dịch,chế độ người dùng,,không,
+coefficient,sửa,dịch,hệ số,,không,
+multiplexing,sửa,dịch,ghép kênh,,không,
+semicolon,bỏ,,,,,ký hiệu
+chaining,bỏ,,,,,đa nghĩa
+security analysis,bỏ,,,,,cụm từ chung
+social networks,bỏ,,,,,ngoài phạm vi
+random number generator,sửa,dịch,bộ sinh số ngẫu nhiên,,không,
+pooling layer,sửa,Anh (Việt),lớp gộp,,không,nhất quán với v4: pooling (gộp); layer -> lớp
+bittorrent,bỏ,,,,,tên riêng
+VLAN,bỏ,,,,,viết tắt; mô hình tự giữ
+dynamic analysis,sửa,dịch,phân tích động,,không,
+public key encryption,sửa,dịch,mã hóa khóa công khai,,không,
+security controls,bỏ,,,,,cụm từ chung
+key generation,sửa,dịch,sinh khóa,,không,
+computational cost,sửa,dịch,chi phí tính toán,,không,
+divergence,bỏ,,,,,đa nghĩa
+typedef,bỏ,,,,,từ khóa C
+opcode,sửa,giữ tiếng Anh,,,không,
+brie,bỏ,,,,,mảnh chữ PDF vỡ (brief)
+PDF,bỏ,,,,,tên định dạng
+test data,sửa,dịch,dữ liệu kiểm tra,,không,
+hit rate,sửa,Anh (Việt),tỷ lệ trúng,,không,
+private networks,sửa,dịch,mạng riêng,,không,
+machine code,sửa,dịch,mã máy,,không,
+homomorphic encryption,sửa,dịch,mã hóa đồng cấu,,không,
+cryptographic primitives,sửa,Anh (Việt),nguyên thủy mật mã,,không,
+CUDA,bỏ,,,,,tên riêng
+deviation,sửa,dịch,độ lệch,,không,"độ lệch chuẩn" là standard deviation
+information retrieval,sửa,Anh (Việt),truy xuất thông tin,,không,máy chọn "thu thập thông tin" sai nghĩa
+data processing,sửa,dịch,xử lý dữ liệu,,không,cụm thông thường; chính tả "xử lý"
+data encryption,sửa,dịch,mã hóa dữ liệu,,không,
+information systems,sửa,dịch,hệ thống thông tin,,không,máy chọn "công nghệ thông tin" sai nghĩa
+information technology,sửa,dịch,công nghệ thông tin,,không,
+knowledge base,sửa,dịch,cơ sở tri thức,,không,
+malware,sửa,Anh (Việt),mã độc,,không,"mã độc" phổ biến hơn "phần mềm gây hại"
+Asynchronous,sửa,dịch,bất đồng bộ,,không,máy chọn "đồng bộ" ngược nghĩa
+Aggregation,bỏ,,,,,đa nghĩa
+Merge,bỏ,,,,,động từ thường
+Template,bỏ,,,,,từ chung
+Dependency,bỏ,,,,,từ chung
+Modeling,bỏ,,,,,từ chung
+Use case,sửa,Anh (Việt),trường hợp sử dụng,,không,
+inner join,sửa,giữ tiếng Anh,,,không,máy cắt hụt "(trong)"
+nguyen,bỏ,,,,,tên người
+page fault,sửa,Anh (Việt),lỗi trang,,có,máy cắt hụt "(lỗi)"
+AlphaGo,bỏ,,,,,tên riêng
+chatbot,sửa,giữ tiếng Anh,,,không,
+convex,sửa,dịch,lồi,,không,
+data set,sửa,Anh (Việt),tập dữ liệu,,không,cùng khái niệm với dataset
+Lethal autonomous weapon,bỏ,,,,,ngoài phạm vi
+linear dependence,sửa,dịch,phụ thuộc tuyến tính,,không,máy chọn "độc lập" ngược nghĩa
+bandit,sửa,giữ tiếng Anh,,,không,multi-armed bandit
+character recognition,sửa,dịch,nhận dạng ký tự,,không,
+maximum likelihood,sửa,Anh (Việt),hợp lý cực đại,,không,máy cắt hụt "(cực đại)"
+markov,bỏ,,,,,tên người
+normalize,bỏ,,,,,động từ thường
+concatenate,bỏ,,,,,động từ thường
+robust,bỏ,,,,,tính từ chung
+absolute value,sửa,dịch,giá trị tuyệt đối,,không,thuật ngữ toán luôn được dịch
+real numbers,sửa,dịch,số thực,,không,
+identity function,sửa,dịch,hàm đồng nhất,,không,
+hyperplane,sửa,dịch,siêu phẳng,,không,
+quadratic form,sửa,dịch,dạng toàn phương,,không,
+quadratic programming,sửa,dịch,quy hoạch toàn phương,,không,
+law of large numbers,sửa,dịch,luật số lớn,,không,
+newton's method,sửa,dịch,phương pháp Newton,,không,
+jensen's inequality,sửa,dịch,bất đẳng thức Jensen,,không,
+fundamental theorem of calculus,sửa,dịch,định lý cơ bản của giải tích,,không,
+Bayes' rule,sửa,dịch,quy tắc Bayes,,không,
+product rule,sửa,dịch,quy tắc tích,,không,
+confidence level,sửa,dịch,mức tin cậy,,không,
+Frobenius norm,sửa,dịch,chuẩn Frobenius,,không,
+Lagrange multiplier,sửa,dịch,nhân tử Lagrange,,không,
+posterior probability,sửa,dịch,xác suất hậu nghiệm,,không,
+convex combination,sửa,dịch,tổ hợp lồi,,không,
+partition function,sửa,dịch,hàm phân hoạch,,không,
+linearity,sửa,dịch,tính tuyến tính,,không,
+differential calculus,sửa,dịch,phép tính vi phân,,không,
+runtime environment,sửa,Anh (Việt),môi trường thực thi,,không,
+recommendation system,sửa,dịch,hệ thống gợi ý,,không,cùng khái niệm với recommender system
+spam email,bỏ,,,,,cụm thông thường
+online advertising,bỏ,,,,,ngoài phạm vi
+supply chain,bỏ,,,,,ngoài phạm vi
+due diligence,bỏ,,,,,ngoài phạm vi
+case study,bỏ,,,,,cụm thông thường
+event management,bỏ,,,,,cụm thông thường
+subword,sửa,Anh (Việt),từ con,,không,bảng D2L ghi "(NLP)" là nhãn lĩnh vực không phải viết tắt
+associative array,sửa,dịch,mảng kết hợp,,không,máy chọn "bảng băm" là cấu trúc khác
+callback,sửa,Anh (Việt),hàm gọi lại,,không,
+continuous deployment,sửa,Anh (Việt),triển khai liên tục,,không,
+documentation,sửa,Anh (Việt),tài liệu,,không,
+intelligent agent,sửa,Anh (Việt),tác tử thông minh,,không,
+Python,bỏ,,,,,tên ngôn ngữ
+unsupervised,bỏ,,,,,tính từ (đã có unsupervised learning)
+checksum,sửa,Anh (Việt),tổng kiểm tra,,không,
+data stream,sửa,Anh (Việt),luồng dữ liệu,,không,máy cắt hụt "(dòng)"
+data transfer,sửa,dịch,truyền dữ liệu,,không,
+divisor,sửa,dịch,ước số,,không,
+email address,bỏ,,,,,cụm thông thường
+email message,bỏ,,,,,cụm thông thường
+GIF,bỏ,,,,,tên định dạng
+home address,bỏ,,,,,cụm thông thường
+modulo,sửa,giữ tiếng Anh,,,không,"môđun" sai nghĩa (phép modulo là chia lấy dư)
+quality of service,sửa,Anh (Việt),chất lượng dịch vụ,QoS,không,
+name server,sửa,dịch,máy chủ tên miền,,không,
+plaintext,sửa,dịch,bản rõ,,không,thuật ngữ mật mã (đi cặp với bản mã)
+literal,sửa,giữ tiếng Anh,,,không,máy chọn "ký tự" sai nghĩa
+The Game,bỏ,,,,,rác
+time interval,bỏ,,,,,cụm thông thường
+floppy disk,bỏ,,,,,thiết bị cũ
+floppy disk drive,bỏ,,,,,thiết bị cũ
+hard disk drive,sửa,Anh (Việt),ổ đĩa cứng,HDD,không,
+random-access memory,sửa,Anh (Việt),bộ nhớ truy cập ngẫu nhiên,RAM,không,máy cắt hụt "(bộ nhớ)"
+Histogram,sửa,Anh (Việt),biểu đồ tần suất,,không,máy nhận nhầm "Color" là viết tắt
+ROI,sửa,Anh (Việt),vùng quan tâm,,không,trong thị giác máy ROI = region of interest
+basis vector,sửa,dịch,vectơ cơ sở,,không,
+significance level,sửa,dịch,mức ý nghĩa,,không,
+greedy,sửa,dịch,tham lam,,không,
+intersection,sửa,dịch,giao,,không,máy chọn "hai tập hợp" sai
+undirected,sửa,dịch,vô hướng,,không,máy chọn "đồ thị" sai
+theta,bỏ,,,,,ký hiệu
+finite,bỏ,,,,,tính từ chung
+interval,bỏ,,,,,từ chung
+radius,bỏ,,,,,từ chung
+rectangle,bỏ,,,,,từ chung
+triangle,bỏ,,,,,từ chung
+Geometry,sửa,dịch,hình học,,không,
+central limit theorem,sửa,dịch,định lý giới hạn trung tâm,,không,
+sample space,sửa,dịch,không gian mẫu,,không,
+percentile,sửa,dịch,phân vị,,không,
+moving average,sửa,dịch,trung bình động,,không,
+bar chart,sửa,dịch,biểu đồ cột,,không,
+weighted average,sửa,dịch,trung bình có trọng số,,không,
+statistical inference,sửa,dịch,suy luận thống kê,,không,
+statistical significance,sửa,dịch,ý nghĩa thống kê,,không,
+subscript,sửa,dịch,chỉ số dưới,,không,
+superscript,sửa,dịch,chỉ số trên,,không,
+support vector,sửa,dịch,vectơ hỗ trợ,,không,
+global variable,sửa,dịch,biến toàn cục,,không,
+infinite loop,sửa,dịch,vòng lặp vô hạn,,không,
+error handling,sửa,dịch,xử lý lỗi,,không,
+remote login,sửa,dịch,đăng nhập từ xa,,không,
+file transfer,sửa,dịch,truyền tệp,,không,
+hypertext,sửa,dịch,siêu văn bản,,không,

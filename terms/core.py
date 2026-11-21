@@ -27,6 +27,9 @@ GLOSSARY_COLUMNS = ("source", "cach_xu_ly", "lan_dau", "lan_sau", "linh_vuc", "t
 
 # Ma giu cho thay tu phai giu tieng Anh: [T1], [T2], ...
 PLACEHOLDER = "[T{}]"
+# True: moi cach viet trong bang, ca tieng Viet, deu thay bang ma giu cho (mo hinh khong viet lai duoc).
+# Dang thu nghiem (model/notebooks/thi-nghiem-chen-thuat-ngu.ipynb, nhanh "chen_ma").
+PROTECT_ALL_FORMS = False
 
 
 @dataclass(frozen=True)
@@ -153,9 +156,9 @@ def _capitalize(text: str) -> str:
     return text[:1].upper() + text[1:]
 
 
-def _must_stay_english(term: Term, text: str) -> bool:
+def _use_placeholder(term: Term, text: str) -> bool:
     """Cach viet chi gom chu ASCII la tieng Anh can giu nguyen, nen dung ma giu cho."""
-    return term.cach_xu_ly == "giữ tiếng Anh" or text.isascii()
+    return PROTECT_ALL_FORMS or term.cach_xu_ly == "giữ tiếng Anh" or text.isascii()
 
 
 def prepare(segment: str, state: ChapterState) -> tuple[str, dict]:
@@ -185,7 +188,7 @@ def prepare(segment: str, state: ChapterState) -> tuple[str, dict]:
         state.seen.add(term.source)
         found.append(term.source)
 
-        if _must_stay_english(term, text):
+        if _use_placeholder(term, text):
             code_no += 1
             while PLACEHOLDER.format(code_no) in segment:   # tranh trung chu san co trong doan
                 code_no += 1

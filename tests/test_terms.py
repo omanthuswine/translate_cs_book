@@ -94,6 +94,15 @@ def test_existing_abbreviation_in_parentheses_is_not_doubled():
     assert out[0].lower().startswith(rnn.lan_dau.lower())
 
 
+def test_protect_all_forms_hides_vietnamese_forms_too(monkeypatch):
+    monkeypatch.setattr(terms.core, "PROTECT_ALL_FORMS", True)
+    st = G["stack"]
+    sent, out = run(["A stack here.", "Stacks again."])
+    assert "ngăn" not in sent[0] and "[T1]" in sent[0]
+    assert out[0] == f"A {st.lan_dau} here."
+    assert out[1] == f"{st.lan_sau[0].upper() + st.lan_sau[1:]} again."   # dau cau viet hoa
+
+
 def test_placeholder_never_collides_with_existing_text():
     sent, out = run(["Cite [T1] then use dropout."])
     assert sent[0].count("[T1]") == 1

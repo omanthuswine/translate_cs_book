@@ -10,13 +10,15 @@ Mốc xuất phát cần vượt qua (chi tiết trong `eval/ket_qua.csv`): bả
 
 - [x] Đọc `terms/thuat_ngu_khmt_v4.xlsx`, duyệt 100 thuật ngữ có "Số lần trong bộ thử" cao nhất
       (thêm 3 cụm ghép, chuyển driving/watershed function sang Anh (Việt))
-- [ ] Thí nghiệm chèn thuật ngữ trên Kaggle: khoảng 200 đoạn có thuật ngữ từ `eval/data/so_sanh_ban_dich_danh_gia.xlsx`,
+- [x] Thí nghiệm chèn thuật ngữ trên Kaggle: khoảng 200 đoạn có thuật ngữ từ `eval/data/so_sanh_ban_dich_danh_gia.xlsx`,
       dịch bằng 4B có và không chèn, so tỷ lệ sai. Notebook mẫu: `model/notebooks/thu-translategemma.ipynb`
-- [ ] Kiểm tra mô hình có giữ nguyên dạng "overfitting (quá khớp)" và mã giữ chỗ không
+      (chạy 270 đoạn trên laptop vì hết giờ Kaggle; kết quả ở `eval/thi_nghiem_chen_thuat_ngu.md`)
+- [x] Kiểm tra mô hình có giữ nguyên dạng "overfitting (quá khớp)" và mã giữ chỗ không
 - [x] Viết `prepare` và `finalize` thật trong `terms/core.py` (xem các TODO), giữ `pytest` xanh
-- [ ] Ghi kết quả vào `eval/ket_qua.csv`
+- [x] Ghi kết quả vào `eval/ket_qua.csv`
 
 **Mốc 22/11:** kết luận có cần tinh chỉnh LoRA không.
+Đề xuất của A (chờ chốt ở buổi họp): chưa cần, chèn mã đưa sai thuật ngữ CLRS từ 75% xuống 11%.
 
 ## Tuần 2 (23–29/11): nền móng
 

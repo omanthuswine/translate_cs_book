@@ -5,6 +5,8 @@
 - `ket_qua.csv`: mỗi lần chấm thêm một dòng. Ba dòng đầu là mốc xuất phát.
 - `cham_thuat_ngu.py`: chấm tự động 20 thuật ngữ theo dõi của mốc. Chạy thử trên bộ thử:
   `python eval/cham_thuat_ngu.py eval/data/so_sanh_ban_dich_danh_gia.xlsx tg_4b tg_12b chatgpt`
+- `thi_nghiem_chen_thuat_ngu.md`: kết quả thí nghiệm chèn thuật ngữ tuần 1 và đề xuất cho mốc 22/11.
+  Mọi bản dịch của thí nghiệm: `data/thi_nghiem_chen_thuat_ngu_2026-11-21.xlsx`.
 - Sẽ thêm: `data/tap_dap_an.csv` (150 đoạn sửa tay, tuần 2).
 
 Cách đếm "sai thuật ngữ": chỉ tính dịch sai nghĩa hoặc bỏ sót (vd *recurrent* → "hồi quy", *recurrence* → "đệ quy"),

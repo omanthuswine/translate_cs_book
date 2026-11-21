@@ -53,6 +53,12 @@ THEO_DOI: dict[str, list[tuple[str, str]]] = {
 }
 BO_DSA = {"recurrence", "recursion tree", "master method", "subproblem", "asymptotic", "running time"}
 
+# Cham theo bang v5: cac tu v5 xep "Anh (Việt)" thi lan dau "hidden state (trạng thái ẩn)", cac lan sau "hidden state".
+# Chu tieng Anh la cach viet cua bang, dat len dau de lan dau (co ca hai) va cac lan sau cung mot bien the.
+_ANH_VIET_V5 = ("hidden state", "backpropagation", "activation function", "regularization", "dataset")
+THEO_DOI_V5 = {t: ([(t, "bảng")] + [v for v in vs if v[0] != t]) if t in _ANH_VIET_V5 else vs
+               for t, vs in THEO_DOI.items()}
+
 _PATTERNS = {t: re.compile(rf"\b{re.escape(t)}(?:e?s)?\b", re.IGNORECASE) for t in THEO_DOI}
 
 
@@ -61,22 +67,22 @@ def tim_thuat_ngu(source: str) -> list[str]:
     return [t for t, p in _PATTERNS.items() if p.search(source)]
 
 
-def phan_loai(ban_dich: str, term: str) -> tuple[str, str]:
+def phan_loai(ban_dich: str, term: str, theo_doi: dict = THEO_DOI) -> tuple[str, str]:
     """(bien the, loai) cua thuat ngu `term` trong ban dich."""
     text = str(ban_dich).lower()
-    for variant, loai in THEO_DOI[term]:
+    for variant, loai in theo_doi[term]:
         if variant in text:
             return variant, loai
     return KHAC, "khác"
 
 
-def cac_cap(df: pd.DataFrame, col: str) -> pd.DataFrame:
+def cac_cap(df: pd.DataFrame, col: str, theo_doi: dict = THEO_DOI) -> pd.DataFrame:
     """Moi dong mot cap (doan, thuat ngu): id, bo, term, bien_the, loai."""
     prose = df[df["loai_doan"] == "văn xuôi"] if "loai_doan" in df else df
     rows = []
     for r in prose.itertuples(index=False):
         for term in tim_thuat_ngu(r.source):
-            variant, loai = phan_loai(getattr(r, col), term)
+            variant, loai = phan_loai(getattr(r, col), term, theo_doi)
             bo = "dsa" if term in BO_DSA else "d2l"
             rows.append({"id": r.id, "bo": bo, "term": term, "bien_the": variant, "loai": loai})
     return pd.DataFrame(rows, columns=["id", "bo", "term", "bien_the", "loai"])
@@ -89,9 +95,9 @@ def _nhat_quan(pairs: pd.DataFrame) -> float:
     return top.sum() / len(pairs)
 
 
-def tong_ket(df: pd.DataFrame, col: str) -> pd.DataFrame:
+def tong_ket(df: pd.DataFrame, col: str, theo_doi: dict = THEO_DOI) -> pd.DataFrame:
     """Mot dong cho moi bo (d2l, dsa) va mot dong "tất cả": so cap, sai, khac, khop bang, nhat quan."""
-    pairs = cac_cap(df, col)
+    pairs = cac_cap(df, col, theo_doi)
     out = []
     for bo, g in [*pairs.groupby("bo"), ("tất cả", pairs)]:
         out.append({

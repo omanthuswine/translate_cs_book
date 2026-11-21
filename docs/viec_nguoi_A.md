@@ -24,7 +24,8 @@ Mốc xuất phát cần vượt qua (chi tiết trong `eval/ket_qua.csv`): bả
 
 - [ ] Nếu cần LoRA: tạo 3.000–5.000 cặp câu bằng bản 12B có chèn thuật ngữ, lọc câu sai thuật ngữ
 - [ ] Tập đáp án 150 đoạn: lấy bản ChatGPT, sửa tay cho đúng, lưu `eval/data/tap_dap_an.csv`
-- [ ] Hoàn thiện `finalize`: bỏ "…" tự thêm, bỏ `*` và `<sub>`, khôi phục số thứ tự "1.", "2."
+- [x] Hoàn thiện `finalize`: bỏ "…" tự thêm, bỏ `*` và `<sub>`, khôi phục số thứ tự "1.", "2."
+      (thí nghiệm 2: các lỗi này từ 12 / 8 / 7 đoạn xuống 0; xem `eval/thi_nghiem_v5_va_dich_lai.md`)
 
 ## Tuần 3 (30/11–6/12): mô hình
 
